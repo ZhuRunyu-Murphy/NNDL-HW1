@@ -27,7 +27,7 @@ Neural Networks and Deep Learning 课程作业 HW1
 ```bash
 wget https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 tar -xvzf cifar-10-python.tar.gz
-
+``` 
 
 ## 🚀 使用方法
 
@@ -35,13 +35,14 @@ tar -xvzf cifar-10-python.tar.gz
 
 ```bash
 python train.py
-
+``` 
 - **测试模型**：
 
 ```bash
 python test.py
-
+``` 
 - **超参搜索**：
 
 ```bash
 python hyperparameter_search.py
+``` 
